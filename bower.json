@@ -1,0 +1,24 @@
+{
+  "name": "processing-sketcher",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Stoney-FD/processing-sketcher",
+  "authors": [
+    "Johannes Stein <johannesstein@freeze-dev.com>"
+  ],
+  "description": "Tiny wrapper around Processing.js",
+  "main": "dist/sketcher.js",
+  "keywords": [
+    "processing",
+    "processing.js",
+    "sketch",
+    "sketcher"
+  ],
+  "license": "Public domain",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

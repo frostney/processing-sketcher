@@ -1,0 +1,27 @@
+{
+  "name": "processing-sketcher",
+  "version": "1.0.0",
+  "description": "Tiny wrapper around Processing.js",
+  "main": "dist/sketcher.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stoney-FD/processing-sketcher.git"
+  },
+  "keywords": [
+    "processing",
+    "processing.js",
+    "sketch",
+    "sketcher"
+  ],
+  "author": "Johannes Stein",
+  "license": "Public domain",
+  "bugs": {
+    "url": "https://github.com/Stoney-FD/processing-coffee/issues"
+  }
+}

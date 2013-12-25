@@ -23,5 +23,11 @@
   "license": "Public domain",
   "bugs": {
     "url": "https://github.com/Stoney-FD/processing-coffee/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.8.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-coffeelint": "0.0.8"
   }
 }
